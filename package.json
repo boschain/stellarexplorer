@@ -4,10 +4,10 @@
   "version": "1.0.2",
   "license": "Apache-2.0",
   "author": "Chris Hatch",
-  "homepage": "https://steexp.com",
-  "repository": "chatch/stellarexplorer",
+  "homepage": "https://boschain.org",
+  "repository": "boschain/stellarexplorer",
   "bugs": {
-    "url": "https://github.com/chatch/stellarexplorer/issues"
+    "url": "https://github.com/boschain/stellarexplorer/issues"
   },
   "keywords": [
     "stellar",
