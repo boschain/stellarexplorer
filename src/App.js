@@ -42,8 +42,8 @@ import {searchStrToPath} from './lib/search'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css'
 
-const HOME_PUBLIC = 'https://steexp.com'
-const HOME_TESTNET = 'https://testnet.steexp.com'
+const HOME_PUBLIC = 'https://boschain.org'
+const HOME_TESTNET = 'https://testnet.boschain.org'
 
 const storage = storageInit()
 
